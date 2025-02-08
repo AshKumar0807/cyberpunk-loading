@@ -28,14 +28,14 @@ const CyberpunkLoading = () => {
 
       <div className={`text-center z-10 ${glitchText ? 'animate-pulse' : ''}`}>
         <h1 className="text-6xl font-bold mb-8 text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-purple-500 animate-pulse">
-          HUMAN_NAME.exe
+          ASHWANI_KUMAR.exe
         </h1>
-        
+
         <div className="relative">
           <div className="text-3xl font-mono text-cyan-400">
             SYSTEM LOADING{dots}
           </div>
-          
+
           <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center">
             <div className="text-3xl font-mono text-red-500 opacity-30 animate-pulse">
               SYSTEM LOADING{dots}
