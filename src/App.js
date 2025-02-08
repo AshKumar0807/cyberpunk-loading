@@ -29,7 +29,7 @@ const CyberpunkLoading = () => {
 
       <div className={`text-center z-10 ${glitchText ? 'animate-pulse' : ''}`}>
         {/* Responsive text sizes */}
-        <h1 className="text-4xl md:text-6xl font-bold mb-4 text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-purple-500 animate-pulse">
+        <h1 className="text-2xl md:text-6xl font-bold mb-4 text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-purple-500 animate-pulse">
           ASHWANI_KUMAR.exe
         </h1>
 
